@@ -2,7 +2,7 @@
 
 ---
 
-## Chuẩn bị
+## Chuẩn bị (test)
 
 ### 1. Bootstrap hạ tầng
 
